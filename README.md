@@ -1,4 +1,4 @@
-Data Analysis project conducted in Python for Career Foundry Data Analytics Program.
+Data Analysis project conducted in Python for CareerFoundry Data Analytics Program.
 
 # Project
 
